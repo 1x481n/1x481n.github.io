@@ -1,0 +1,18 @@
+[submodule "themes/jekyll"]
+	path = themes/jekyll
+	url = git@github.com:1x481n/hexo-theme-jekyll.git
+[submodule "themes/hacker"]
+	path = themes/hacker
+	url = git@github.com:1x481n/Hacker.git
+[submodule "themes/geektutu"]
+	path = themes/geektutu
+	url = git@github.com:1x481n/hexo-theme-geektutu.git
+[submodule "themes/geek"]
+	path = themes/geek
+	url = git@github.com:1x481n/hexo-theme-geek.git
+[submodule "themes/prowiki"]
+	path = themes/prowiki
+	url = git@github.com:1x481n/hexo-theme-prowiki.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = git@github.com:1x481n/Coder.git
